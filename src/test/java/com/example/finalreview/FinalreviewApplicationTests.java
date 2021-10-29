@@ -39,7 +39,7 @@ class FinalreviewApplicationTests {
     }
 
     @Test
-public void testUserSignupLoginAndSubmitMessage(){
+    public void testUserSignupLoginAndSubmitMessage() {
         String username = "pzastoup";
         String password = "whatabadpassword";
         String messageText = "Hello!";
